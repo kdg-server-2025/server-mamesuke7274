@@ -1,3 +1,3 @@
-module go-helloworld
+module example.com/myapp
 
-go 1.24.3
+go 1.20
